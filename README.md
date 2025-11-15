@@ -56,6 +56,6 @@ The predicted emotion is displayed on the screen in real time.
 ### Example Output
 Emotion: HAPPY 😀
 
-🤝 Contributing
+### Contributing
 
 Pull requests are welcome. Feel free to improve the model or add new features!
